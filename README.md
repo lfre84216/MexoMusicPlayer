@@ -19,7 +19,7 @@
 - Python-pafy
 - jQuery+JavaScript
 - JSON+Fetch
-- KKBOX API
+- KKBOX API(OAuth)
 - annyang
 
 ## 主要實作功能
