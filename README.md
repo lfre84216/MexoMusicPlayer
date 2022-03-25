@@ -1,9 +1,6 @@
 # MexoMusicPlayer
 人工智慧語音辨識播放器
 
-# BookBorrowSystem
-大學專案-圖書出借系統(Book-Borrow-System)
-
 ## 實作目的
 因為自己非常喜歡聽音樂，<br>
 從原始的C#開始製作音樂播放器，到後來研究WEB應用程式，<br>
@@ -36,12 +33,13 @@
 - 音樂播放速度動態調整
 
 ## 相關程式畫面
-### 登入註冊<br>
-<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/7.png">
+### Mexo音樂播放<br>
+雖然介面陽春，但實際的功能都有。<br>
+<img src="https://github.com/lfre84216/MexoMusicPlayer/blob/main/1.png">
 <br>
 
 ### 程式影片DEMO展示
-[![IMAGE ALT TEXT HERE](https://github.com/lfre84216/RPG-DICE-GAME/blob/main/%E9%81%8A%E6%88%B2%E6%A8%99%E9%A1%8C%E8%83%8C%E6%99%AF.JPG)](https://www.youtube.com/watch?v=GX6oyUWPhVU)
+[![IMAGE ALT TEXT HERE](https://github.com/lfre84216/MexoMusicPlayer/blob/main/1.png)](https://www.youtube.com/watch?v=GX6oyUWPhVU)
 
 ## 製作過程與困難點
 在實作該專案的過程中，<br>
