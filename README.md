@@ -38,7 +38,7 @@
 <img src="https://github.com/lfre84216/MexoMusicPlayer/blob/main/1.png">
 <br>
 
-### 程式影片DEMO展示 (點圖片進入觀看)
+### 程式影片DEMO展示 (點下方圖片進入觀看)
 [![IMAGE ALT TEXT HERE](https://github.com/lfre84216/MexoMusicPlayer/blob/main/1.png)](https://www.youtube.com/watch?v=GX6oyUWPhVU)
 
 ## 製作過程與困難點
